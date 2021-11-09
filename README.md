@@ -87,6 +87,7 @@ wsa://com.android.settings
 | Bad Piggies HD | 2.4.3141 | ✅ | | |
 | BanG Dream! Girls Band Party! | 4.5.0 | 🆖 | Requires GMS | |
 | Bromite | 94.0.4606.94 |  ✅ |  | Use x64 build |
+| ブルーアーカイブ (Blue Archive) | 1.11.113283 | ❌ | Black Screen ||
 | Brawl Stars | 38.159 | ❌ | Game crashes ||
 | Brave Browser | 1.30.87 | ✅ ||
 | Binance | 2.36.5 | ✅ |||
